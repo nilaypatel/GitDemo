@@ -1,3 +1,3 @@
 Master branch
 
-- Added comment1 in Feature-branch-1
+- Added comment in local master branch
